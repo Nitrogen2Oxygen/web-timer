@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/static/js/main.ffd64eda.chunk.js",
-    "main.js.map": "/static/js/main.ffd64eda.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b11617d0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b11617d0.js.map",
-    "static/js/2.76dd0262.chunk.js": "/static/js/2.76dd0262.chunk.js",
-    "static/js/2.76dd0262.chunk.js.map": "/static/js/2.76dd0262.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.76dd0262.chunk.js.LICENSE.txt": "/static/js/2.76dd0262.chunk.js.LICENSE.txt"
+    "main.css": "/web-timer/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/web-timer/static/js/main.ffd64eda.chunk.js",
+    "main.js.map": "/web-timer/static/js/main.ffd64eda.chunk.js.map",
+    "runtime-main.js": "/web-timer/static/js/runtime-main.d6bb7672.js",
+    "runtime-main.js.map": "/web-timer/static/js/runtime-main.d6bb7672.js.map",
+    "static/js/2.76dd0262.chunk.js": "/web-timer/static/js/2.76dd0262.chunk.js",
+    "static/js/2.76dd0262.chunk.js.map": "/web-timer/static/js/2.76dd0262.chunk.js.map",
+    "index.html": "/web-timer/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/web-timer/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.76dd0262.chunk.js.LICENSE.txt": "/web-timer/static/js/2.76dd0262.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b11617d0.js",
+    "static/js/runtime-main.d6bb7672.js",
     "static/js/2.76dd0262.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
     "static/js/main.ffd64eda.chunk.js"
