@@ -24,6 +24,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://nitrogen2oxygen.github.io/web-timer",
   "eslintConfig": {
     "extends": [
       "react-app",
